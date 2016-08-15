@@ -1,0 +1,48 @@
+.container{
+padding:0px 10px 0px 10px;
+}
+header{
+    border-bottom:#67b168 5px solid;
+    margin-bottom: 20px;
+}
+header h1{
+    padding:10px;
+    margin:10px 0px 10px;
+    font-family:cursive;
+    color: #737373;
+}
+
+.container{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.list-group{
+    padding: 0px 10px;
+    margit:0px;
+}
+.list-group h5.list-group-item-heading{
+    color: #67b168;
+}
+
+.row{
+    margin: 0px;
+}
+
+form.form{
+    padding: 0px;
+}
+
+.form-group{
+    padding:0px 10px;
+    margin-bottom: 15px;
+}
+
+.btn-success{
+    margin-left: 10px;
+}
+
+.task-to-do h3{
+    margin-top:0px;
+    color: #737373;
+}
